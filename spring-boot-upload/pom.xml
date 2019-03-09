@@ -7,7 +7,7 @@
     <groupId>com.songguoliang</groupId>
     <artifactId>spring-boot-upload</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>war</packaging>
+    <packaging>jar</packaging>
 
     <name>spring-boot-upload</name>
     <description>Spring Boot教程(十三)：Spring Boot文件上传</description>

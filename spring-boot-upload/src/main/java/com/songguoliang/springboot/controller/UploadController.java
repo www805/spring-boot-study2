@@ -39,7 +39,7 @@ public class UploadController {
         String fileName = file.getOriginalFilename();
 
 
-        String filePath = "/Users/itinypocket/workspace/temp/";
+        String filePath = "E:\\";
         File dest = new File(filePath + fileName);
         try {
             file.transferTo(dest);
